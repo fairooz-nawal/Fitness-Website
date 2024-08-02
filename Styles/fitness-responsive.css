@@ -1,0 +1,126 @@
+@media screen and (max-width:576px) {
+
+    /* navbar style starts */
+    .nav-wrapper {
+        width: auto;
+        padding: 52px 20px;
+    }
+
+    .title {
+        font-size: 36px;
+    }
+
+    .nav-wrapper>.icon {
+        display: block;
+    }
+
+    .nav-wrapper>.nav-container {
+        display: none;
+    }
+
+    /* navbar style ends */
+
+    /* banner style starts */
+    .banner {
+        flex-direction: column;
+        padding: 0 20px 0;
+        width:auto;
+    }
+
+    .banner-content {
+        width: 352px;
+        margin-top: 0px;
+    }
+
+    .banner-title {
+        width: 285px;
+        font-size: 36px;
+        font-weight: 900;
+    }
+
+    .banner-description {
+        width: 274px;
+    }
+
+    .button {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+    }
+
+    .tag-container {
+        width: 316px;
+        margin-top: 47px;
+    }
+
+    .tags {
+        left: 32px;
+        top: 270.38px;
+    }
+
+    .banner-image-container {
+        width: 349px;
+        margin: 0 auto;
+    }
+
+    .tag-2 {
+        width: 153px;
+        height: 98px;
+        padding-top: 12px;
+        box-sizing: border-box;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 12px;
+        backdrop-filter: blur(20px);
+        background: rgba(48, 48, 48, 0.54);
+        position: absolute;
+        left: 220.34px;
+        top: 589.46px;
+        text-align: center;
+    }
+
+    /* banner style ends */
+
+    /* body design starts here */
+    /* motivation design starts here */
+    .motivation{
+        width: auto;
+    }
+    .motivation-card-wrapper{
+        flex-direction: column;
+    }
+    .motivation-card-container{
+        width: 50%;
+        margin: 0 auto;
+        padding: 5px;
+    }
+    .motivation-card-container>.img-container{
+        margin: 0 auto 5%;
+        padding: 5px;
+    }
+
+    /* motivation design ends here */
+    /* body design ends here */
+}
+
+@media screen and (min-width:576px) and (max-width:992px) {
+    .nav-wrapper {
+        width: auto;
+        padding: 52px 30px;
+    }
+
+    .nav-container {
+        width: 100%;
+    }
+
+    div {
+        /* width: 20%; */
+        padding: 2.3% 6%;
+        text-align: center;
+        border-radius: 46px;
+    }
+
+    .nav-container>div>li>a {
+        font-size: 100%;
+        font-weight: 400;
+    }
+}
