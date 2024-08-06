@@ -14,21 +14,15 @@
     background: rgb(21, 21, 21);
 }
 
-<<<<<<< HEAD
 .tertiary-bg{
     background: rgb(34, 34, 34);
 }
-=======
->>>>>>> origin/main
 .third-color {
     background-color: rgb(230, 83, 60);
 }
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> origin/main
 .button-color {
     color: rgb(230, 83, 60);
 }
@@ -173,10 +167,7 @@
 
 .tag-container {
     width: 536px;
-<<<<<<< HEAD
     position: relative;
-=======
->>>>>>> origin/main
 }
 
 .tags {
@@ -236,11 +227,7 @@
     backdrop-filter: blur(20px);
     background: rgba(48, 48, 48, 0.54);
     position: absolute;
-<<<<<<< HEAD
     left: 415px;
-=======
-    left: 1115px;
->>>>>>> origin/main
     top: 220px;
     text-align: center;
 }
@@ -263,23 +250,17 @@
 /* body design starts here */
 
 /* motivation design starts here */
-<<<<<<< HEAD
 .motivation{
     margin-bottom: 102px;
 }
-=======
->>>>>>> origin/main
 .motivation-info {
     width: 50%;
     margin: 0 auto;
     padding: 9% 0 4% 0;
 }
-<<<<<<< HEAD
 .motivation-title {
     margin-bottom:14px;
 }
-=======
->>>>>>> origin/main
 .motivation-card-wrapper{
     display: flex;
     justify-content: space-between;
@@ -307,7 +288,6 @@
     font-weight: 600;
     color: rgb(255, 255, 255);
 }
-<<<<<<< HEAD
 .motivation-description{
     margin-bottom: 34px;
 }
@@ -334,8 +314,4 @@
     border-radius: 18px;
 }
 /* information design ends here */
-=======
-
-/* motivation design ends here */
->>>>>>> origin/main
 /* body design ends here */

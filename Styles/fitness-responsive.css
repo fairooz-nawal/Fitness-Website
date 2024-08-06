@@ -55,10 +55,6 @@
 
     .tags {
         left: 32px;
-<<<<<<< HEAD
-=======
-        top: 270.38px;
->>>>>>> origin/main
     }
 
     .banner-image-container {
@@ -77,11 +73,7 @@
         background: rgba(48, 48, 48, 0.54);
         position: absolute;
         left: 220.34px;
-<<<<<<< HEAD
         top: 189.46px;
-=======
-        top: 589.46px;
->>>>>>> origin/main
         text-align: center;
     }
 
@@ -106,7 +98,6 @@
     }
 
     /* motivation design ends here */
-<<<<<<< HEAD
      /* information design starts here */
      .card-container{
         width:353px;
@@ -119,8 +110,6 @@
      }
      
      /* information design ends here */
-=======
->>>>>>> origin/main
     /* body design ends here */
 }
 
