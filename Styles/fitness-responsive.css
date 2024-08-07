@@ -28,18 +28,18 @@
     }
 
     .banner-content {
-        width: 352px;
+        width: auto;
         margin-top: 0px;
     }
 
     .banner-title {
-        width: 285px;
+        width: 70%;
         font-size: 36px;
         font-weight: 900;
     }
 
     .banner-description {
-        width: 274px;
+        width: 90%;
     }
 
     .button {
@@ -49,32 +49,25 @@
     }
 
     .tag-container {
-        width: 316px;
+        width: auto;
         margin-top: 47px;
+        border: 2px solid tomato;
     }
 
     .tags {
-        left: 32px;
+        left: 10%;
     }
 
     .banner-image-container {
-        width: 349px;
+        width: 95%;
         margin: 0 auto;
     }
 
     .tag-2 {
         width: 153px;
-        height: 98px;
         padding-top: 12px;
-        box-sizing: border-box;
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        border-radius: 12px;
-        backdrop-filter: blur(20px);
-        background: rgba(48, 48, 48, 0.54);
-        position: absolute;
-        left: 220.34px;
-        top: 189.46px;
-        text-align: center;
+        left:50%;
+        top: 35%;
     }
 
     /* banner style ends */
@@ -101,29 +94,32 @@
     
      /* information design starts here */
      .card-container{
-        width: 353px;
+        width: auto;
         flex-direction: column;
         padding:20px;
-        margin: 10px;
+        margin: 2%;
      }
      .info-container{
-        width: 287px;
-        margin-bottom: 30px;
+        width: 80%;
+        margin-bottom: 10%;
      }
+     .info-image-container {
+        width: 100%;
+    }
      
      /* information design ends here */
 
      /* training design starts here */
      .training-section{
-        width:353px;
+        width:auto;
      }
      .training{
         margin-top: 66px;
         padding: 20px;
-        width: 353px;
+        width: 90%;
      }
      .training-card-container{
-        width: 363px;
+        width: 90%;
         display: grid;
         grid-template-columns: repeat(2,1fr);
         grid-template-rows: 127px;
@@ -143,12 +139,12 @@
      }
 
      .training-card-container2{
-        width: 363px;
+        width: 90%;
         display: grid;
         grid-template-columns: repeat(2,1fr);
         grid-template-rows: 127px;
         gap:0;
-        margin: 0 auto;
+        margin: 0 auto 10%;
      }
      .img-4>img,.img-5>img{
         max-width: 100%;
@@ -162,24 +158,38 @@
      /* training design ends here */
 
      /* BMI calculator design starts */
+     .bmi-info{
+        width:auto;
+        padding: 3%;
+        text-align: left;
+        margin-bottom: 5%;
+     }
+
+     .chart-container{
+        padding: 3%;
+     }
+
      .bmi-calculator {
-        width:353px;
+        width:95%;
         flex-direction: column;
-        margin-bottom: 88px;
+        margin-bottom: 20%;
     }
     .bmi-form{
-        margin-top: 55px;
+        margin-top: 10%;
         width:100%;
     }
+    .bmi-form-info{
+        width:90%;
+    }
     .input-container{
-        width: 353px;
-        margin: 34px 0;
+        width: 100%;
+        margin: 10% 0;
         display:grid;
         grid-template-columns: repeat(2,1fr);
-        gap:12px;
+        gap:3%;
     }
     input{
-        width:50%;
+        width:60%;
     }
      /* BMI calculator design ends */
     /* body design ends here */
