@@ -1,4 +1,4 @@
-## Figma Link 
+![Screenshot 2024-08-06 200948](https://github.com/user-attachments/assets/86496f78-1574-4546-87a4-dbb5141fc350)## Figma Link 
 
 <<<<<<< HEAD
 [Figma Link] (https://www.figma.com/design/Hb31V8a9AdEXkjc0P4gRWm/Theme%3A-Fitness-Related-website?node-id=0-1&t=497wT8tcrhXU6Hiy-1)
@@ -6,12 +6,32 @@
 [Figma Link] (https://www.figma.com/design/Hb31V8a9AdEXkjc0P4gRWm/Theme%3A-Fitness-Related-website?node-id=0-1&t=497wT8tcrhXU6Hiy-1)
 ## (Desktop Nav and banner section)
 ![Screenshot 2024-08-03 003501](https://github.com/user-attachments/assets/638cf38f-0c3a-4db2-9189-6b78a8639244)
-## (Desktop motivation section of main)
-![Screenshot 2024-08-03 003519](https://github.com/user-attachments/assets/aa421145-863c-4916-84a6-846a901f2a47)
+## (Desktop motivation and card section of main)
+![Screenshot 2024-08-07 203243](https://github.com/user-attachments/assets/c99a5552-2467-4d21-88e1-c819d9b77719)
+## (Training and Exercise section of main)
+![Screenshot 2024-08-07 203300](https://github.com/user-attachments/assets/58081605-bb04-4fe7-874b-4b48673cdcee)
+## (BMI section of main)
+![Screenshot 2024-08-07 203322](https://github.com/user-attachments/assets/0f79ef8d-5806-4438-8764-423322efb324)
+## (Team Section)
+![Screenshot 2024-08-07 203335](https://github.com/user-attachments/assets/4e18de1b-240a-4ebe-9164-504848b9524f)
+## (Footer Section)
+![Screenshot 2024-08-07 203349](https://github.com/user-attachments/assets/0c295ba3-dc7e-4767-b8ef-158d28b4abf5)
 ## (Mobile design navbar and banner)
 ![Screenshot 2024-08-03 004114](https://github.com/user-attachments/assets/7382848e-cfdc-492e-bc08-5050f2ea7d7b)
 ## (Mobile design Motivation section of main)
 ![Screenshot 2024-08-03 004123](https://github.com/user-attachments/assets/75e574f2-592b-4ac8-a046-ff4cca6b4814)
 ![Screenshot 2024-08-03 004134](https://github.com/user-attachments/assets/13330fd5-ab69-4235-a206-102c1db6332e)
 ![Screenshot 2024-08-03 004144](https://github.com/user-attachments/assets/6bf0cad4-16fe-477d-9220-e3aa402a2cef)
+## (Mobile design Card section of main)
+![Screenshot 2024-08-06 200948](https://github.com/user-attachments/assets/f3ffefae-b865-4e8d-b2f0-bc26c3192dc8)
+## (Mobile design Training and Exercise section of main)
+![Screenshot 2024-08-07 203930](https://github.com/user-attachments/assets/e4c1fe69-b410-4a6d-9632-3a69c2a93180)
+## (Mobile design BMI section of main)
+![Screenshot 2024-08-07 203946](https://github.com/user-attachments/assets/01695039-186c-4ce1-ba77-5e74bf6b27ba)
+## (Mobile design Team section of main)
+![Screenshot 2024-08-07 203957](https://github.com/user-attachments/assets/5f65d980-dfbe-4073-afa7-81dcfd81c2c2)
+![Screenshot 2024-08-07 204008](https://github.com/user-attachments/assets/35757b8a-b419-4f6a-ae52-3391ca37e3a5)
+## (Mobile design Footer section of main)
+![Screenshot 2024-08-07 204018](https://github.com/user-attachments/assets/b4b0618f-a8c6-46d2-8f8f-b8655597f7b7)
+
 >>>>>>> origin/main
