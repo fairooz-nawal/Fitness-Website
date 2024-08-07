@@ -51,7 +51,6 @@
     .tag-container {
         width: auto;
         margin-top: 47px;
-        border: 2px solid tomato;
     }
 
     .tags {
@@ -192,7 +191,43 @@
         width:60%;
     }
      /* BMI calculator design ends */
+
+     /* team design starts  */
+     .team{
+        width: auto;
+     }
+     .team-wrapper{
+        display:flex;
+        flex-direction: column;
+        width: auto;
+        margin: 5%;
+        border-radius: 4%;
+        padding: 2%;
+     }
+     .team-img{
+        width: 100%;
+     }
+     
+     /* team design ends */
     /* body design ends here */
+
+    /* footer design starts here  */
+    .footer-wrapper{
+        width: auto;
+    }
+    .footer-container{
+        flex-direction: column;
+    }
+    .fitness{
+        width:auto;
+        margin: 10%;
+    }
+    .started-container{
+        flex-direction: column;
+        width:auto;
+        margin:10%;
+    }
+    /* footer design ends here */
 }
 
 @media screen and (min-width:576px) and (max-width:992px) {
