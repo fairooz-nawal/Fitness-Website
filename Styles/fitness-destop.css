@@ -355,13 +355,16 @@
 .bmi-info{
     margin-bottom: 88px;
 }
+/* BMI design ends here */
 
+/* BMI calculator design starts here */
 .chart-container{
     margin-top: 55px;
 }
 .bmi-calculator {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 88px;
 }
 
 .chart {
@@ -378,23 +381,42 @@
     color: rgb(255, 255, 255);
     font-size: 28px;
     font-weight: 900;
+    margin-bottom: 12px;
 }
 .bold{
     font-weight: 500;
     color: rgb(255, 255, 255);
 }
+
+ /* bmi form starts here */
+ 
 .bmi-form{
     margin-top: 55px;
     width:577px;
 }
-.bmi-form>input{
-    
-    padding: 12px 40px 12px 20px;
-    display: block;
-  
+.input-container{
+    margin: 34px 0;
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:12px;
 }
+.activity{
+    grid-column: 2 span;
+}
+input{
+    border-radius: 8px;
+    border: none;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 12px 40px 12px 20px;
+}
+input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+    opacity: 1;
+  }
 
+  /* bmi form ends here */
 
+/* BMI calculator design ends here */
 
 /* BMI design ends here */
 /* body design ends here */

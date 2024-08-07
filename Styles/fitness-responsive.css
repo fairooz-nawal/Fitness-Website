@@ -115,7 +115,7 @@
 
      /* training design starts here */
      .training-section{
-        width:auto;
+        width:353px;
      }
      .training{
         margin-top: 66px;
@@ -160,6 +160,28 @@
      }
     
      /* training design ends here */
+
+     /* BMI calculator design starts */
+     .bmi-calculator {
+        width:353px;
+        flex-direction: column;
+        margin-bottom: 88px;
+    }
+    .bmi-form{
+        margin-top: 55px;
+        width:100%;
+    }
+    .input-container{
+        width: 353px;
+        margin: 34px 0;
+        display:grid;
+        grid-template-columns: repeat(2,1fr);
+        gap:12px;
+    }
+    input{
+        width:50%;
+    }
+     /* BMI calculator design ends */
     /* body design ends here */
 }
 
