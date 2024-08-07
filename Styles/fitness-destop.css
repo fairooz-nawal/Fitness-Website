@@ -14,9 +14,10 @@
     background: rgb(21, 21, 21);
 }
 
-.tertiary-bg{
+.tertiary-bg {
     background: rgb(34, 34, 34);
 }
+
 .third-color {
     background-color: rgb(230, 83, 60);
 }
@@ -250,34 +251,38 @@
 /* body design starts here */
 
 /* motivation design starts here */
-.motivation{
+.motivation {
     margin-bottom: 102px;
 }
+
 .motivation-info {
     width: 50%;
     margin: 0 auto;
     padding: 9% 0 4% 0;
 }
+
 .motivation-title {
-    margin-bottom:14px;
+    margin-bottom: 14px;
 }
-.motivation-card-wrapper{
+
+.motivation-card-wrapper {
     display: flex;
     justify-content: space-between;
     gap: 20px;
-    width:100%;
+    width: 100%;
 }
-.motivation-card-container{
+
+.motivation-card-container {
     width: 75%;
     padding: 0 3% 0 3%;
 }
 
-.motivation-card-container>.img-container{
+.motivation-card-container>.img-container {
     width: 100%;
     margin-bottom: 3%;
 }
 
-.motivation-card-container .img-container img{
+.motivation-card-container .img-container img {
     width: 100%;
     border-radius: 50%;
     border: 2px solid rgb(35, 35, 35);
@@ -288,30 +293,108 @@
     font-weight: 600;
     color: rgb(255, 255, 255);
 }
-.motivation-description{
-    margin-bottom: 34px;
-}
+
 
 /* motivation design ends here */
 
 /* information design starts here */
 
-.card-container{
-    display:flex;
+.card-container {
+    display: flex;
     justify-content: space-between;
     padding: 41px 54px;
     border-radius: 18px;
     margin-bottom: 100px;
 }
-.info-image-container{
+
+.info-image-container {
     width: 366px;
 }
-.info-container{
+
+.info-container {
     width: 443px;
 }
-.info-image-container>img{
+
+.info-image-container>img {
     width: 100%;
     border-radius: 18px;
 }
+
 /* information design ends here */
+/* training design starts here */
+.training-card-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 218px;
+    gap: 5px;
+    margin-bottom: 5px;
+}
+
+.training-card-container2 {
+    display: grid;
+    grid-template-columns: 1.75fr 1.5fr 1.75fr;
+    grid-template-rows: 218px;
+    gap: 5px;
+    margin-bottom: 78px;
+}
+
+.img-1>img,
+.img-2>img,
+.img-3>img,
+.img-4>img,
+.img-5>img,
+.img-6>img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+/* trainig design ends here */
+
+/* BMI design starts here */
+.bmi-info{
+    margin-bottom: 88px;
+}
+
+.chart-container{
+    margin-top: 55px;
+}
+.bmi-calculator {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chart {
+    display: flex;
+    margin-top: 52px;
+}
+
+.bmi-table>p {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 16px 76px 16px 18px;
+}
+
+.bmi-title {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-weight: 900;
+}
+.bold{
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+.bmi-form{
+    margin-top: 55px;
+    width:577px;
+}
+.bmi-form>input{
+    
+    padding: 12px 40px 12px 20px;
+    display: block;
+  
+}
+
+
+
+/* BMI design ends here */
 /* body design ends here */

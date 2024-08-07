@@ -98,11 +98,13 @@
     }
 
     /* motivation design ends here */
+    
      /* information design starts here */
      .card-container{
-        width:353px;
+        width: 353px;
         flex-direction: column;
-        padding:33px;
+        padding:20px;
+        margin: 10px;
      }
      .info-container{
         width: 287px;
@@ -110,6 +112,54 @@
      }
      
      /* information design ends here */
+
+     /* training design starts here */
+     .training-section{
+        width:auto;
+     }
+     .training{
+        margin-top: 66px;
+        padding: 20px;
+        width: 353px;
+     }
+     .training-card-container{
+        width: 363px;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: 127px;
+        gap:0;
+        margin: 0 auto;
+     }
+     /* [class ^= "img-"]{
+
+     } */
+     .img-1>img,.img-2>img{
+        max-width: 100%;
+        height: 100%;
+        border-radius: 0px;
+     }
+     .img-3{
+        display:none;
+     }
+
+     .training-card-container2{
+        width: 363px;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: 127px;
+        gap:0;
+        margin: 0 auto;
+     }
+     .img-4>img,.img-5>img{
+        max-width: 100%;
+        height: 100%;
+        border-radius: 0px;
+     }
+     .img-6{
+        display:none;
+     }
+    
+     /* training design ends here */
     /* body design ends here */
 }
 
